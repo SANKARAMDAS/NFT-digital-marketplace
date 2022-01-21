@@ -1,5 +1,7 @@
 This is a Full Stack NFT Marketplace on Ethereum with Polygon 
 
+Build with Polygon, Next.js, Tailwind, Solidity, Hardhat, Ethers.js, and IPFS
+
 ![Inked2022-01-22 (2)_LI](https://user-images.githubusercontent.com/31897843/150596561-0a5dab39-cdb5-40ce-a86a-afcb3c0e81b9.jpg)
 ![2022-01-22 (4)](https://user-images.githubusercontent.com/31897843/150596580-53c20ee8-c68b-42d0-8365-68cef4cfc502.png)
 
